@@ -45,8 +45,12 @@ Detail-oriented and highly motivated Data Analyst with a strong foundation in Py
 - [**Books Management System (Python & MySQL)**](https://github.com/LoganathanR03/Books-Management-System)  
   Designed a CRUD application for managing books with Python and MySQL, allowing users to create, read, update, and delete records efficiently.
 
-- [**Cafe Sales Data Analysis (Python, Pandas, Matplotlib)**](https://github.com/LoganathanR03/cafe_sales-analysis)
-  Cleaned and analyzed 10K+ café transactions, uncovering key business insights: Digital Wallet = top payment method, Takeaway orders dominate, Juice = top item.Designed visual dashboards to present trends across items, payment methods, locations, and time
+- [**Cafe Sales Data Analysis (Python, Pandas, Matplotlib)**](https://github.com/LoganathanR03/cafe-sales-analysis)
+  Cleaned and analyzed 10K+ café transactions, uncovering key business insights:
+   - Digital Wallet = top payment method
+   - Takeaway orders dominate
+   - Juice = top item
+  Designed visual dashboards to present trends across items, payment methods, locations, and time
 
 ---
 
