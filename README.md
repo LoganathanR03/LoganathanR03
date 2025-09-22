@@ -49,7 +49,7 @@ Detail-oriented and highly motivated Data Analyst with a strong foundation in Py
 
 ## 📜 Certifications
 
-- **Data Analysis with Python – Coursera** (June 2025)  
+- [**Data Analysis with Python – Coursera**](https://coursera.org/verify/ZH4V6WRCYXYC) (June 2025)  
   Hands-on experience with data wrangling, EDA, and visualization using Pandas, NumPy, Matplotlib & Seaborn.
 
 - **Data Analytics – Bluekode Academy** (Ongoing)  
