@@ -45,19 +45,23 @@ Detail-oriented and highly motivated Data Analyst with a strong foundation in Py
 - [**Books Management System (Python & MySQL)**](https://github.com/LoganathanR03/Books-Management-System)  
   Designed a CRUD application for managing books with Python and MySQL, allowing users to create, read, update, and delete records efficiently.
 
-- [**Cafe Sales Data Analysis (Python, Pandas, Matplotlib)**](https://github.com/LoganathanR03/cafe-sales-analysis)
-  Cleaned and analyzed 10K+ café transactions, uncovering key business insights:
-   - Digital Wallet = top payment method
-   - Takeaway orders dominate
-   - Juice = top item
-  Designed visual dashboards to present trends across items, payment methods, locations, and time
-
+- [**Cafe Sales Data Analysis (Python, Pandas, Matplotlib)**](https://github.com/LoganathanR03/cafe-sales-analysis)  
+  Cleaned and analyzed 10K+ café transactions, uncovering key business insights. Designed visual dashboards to present trends across items, payment methods, locations, and time
+   
+- [**HR Employee Attrition Analysis (Python, Pandas, Matplotlib, Seaborn)**](https://github.com/LoganathanR03/HR-Employee-Attrition)  
+  Explored and analyzed around 1500 employees information and uncovering key insights to the HR. Designed visual dashboards to present trends across job levels, job roles, experiance, and age and more.
 ---
 
 ## 📜 Certifications
 
 - [**Data Analysis with Python – Coursera**](https://coursera.org/verify/ZH4V6WRCYXYC) (June 2025)  
   Hands-on experience with data wrangling, EDA, and visualization using Pandas, NumPy, Matplotlib & Seaborn.
+
+- [**Foundations: Data, Data, Everywhere – Coursera**](https://coursera.org/verify/VVSSHFEXGUKC) (September 2025)  
+  Gained foundational knowledge of the data analytics process and lifecycle. Learned how data is used for business decision-making. 
+
+- [**Ask Questions to Make Data-Driven Decisions – Coursera**](https://coursera.org/verify/7S4WOCXMM6AV) (September 2025)  
+  Developed skills in identifying business problems and framing questions. Understood data types, structures, and importance of data-driven insights.
 
 - **Data Analytics – Bluekode Academy** (Ongoing)  
   Training in Python-based analytics, soft skills, and upcoming modules in SQL, Power BI, and statistics.
