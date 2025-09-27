@@ -83,6 +83,7 @@ Detail-oriented and highly motivated Data Analyst with a strong foundation in Py
 - [Books Management System](https://github.com/LoganathanR03/Books-Management-System)
 - [URL Shortener](https://github.com/LoganathanR03/url-shortener)
 - [Portfolio Website](https://github.com/LoganathanR03/Portfolio)
+- [HR Employee Attrition Analysis](https://github.com/LoganathanR03/HR-Employee-Attrition) 
 
 ---
 
