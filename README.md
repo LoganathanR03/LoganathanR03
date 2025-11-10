@@ -1,90 +1,92 @@
-# 👋 Hi, I'm Loganathan R
 
-**Entry-Level Data Analyst | Tirupur, Tamil Nadu, India**
+# 👋 Hi, I'm Loganathan R — Data Analyst | Tirupur, Tamil Nadu, India
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LoganathanR1210-blue?logo=linkedin)](https://www.linkedin.com/in/loganathanr1210)
-[![Gmail](https://img.shields.io/badge/Email-logangreen1210@gmail.com-red?logo=gmail)](mailto:logangreen1210@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LoganathanR1210-blue?logo=linkedin)](https://www.linkedin.com/in/loganathanr1210)  
+[![Email](https://img.shields.io/badge/Email-logangreen1210@gmail.com-red?logo=gmail)](mailto:logangreen1210@gmail.com)
 
 ---
 
 ## 🎯 Career Objective
 
-Detail-oriented and highly motivated Data Analyst with a strong foundation in Python (Pandas, NumPy), SQL, and Excel. I am passionate about transforming raw data into actionable insights to support business growth and data-driven decision-making. I am eager to contribute my analytical and problem-solving abilities to help organizations make sense of their data.
+Aspiring Data Analyst with hands-on experience in data cleaning, exploratory data analysis (EDA), visualization, and dashboarding using Python (Pandas, NumPy), Excel and SQL. I translate business questions into analysis pipelines and actionable insights to support data-driven decisions. I am looking for entry-level roles or internships where I can apply analytical thinking, storytelling with data, and continuous learning in analytics and BI tools.
 
 ---
 
 ## 🛠️ Technical Skills
 
-- **Programming:** Python (NumPy, Pandas), Flask, MySQL
-- **Tools:** MS Excel (Pivot Tables, LOOKUP, Charts), Word, PowerPoint, GitHub
-- **Soft Skills:** Analytical Thinking, Problem-solving, Teamwork, Presentation, Effective Communication
-- **Languages:** English (Fluent), Tamil (Native), Kannada (Fluent)
+- Programming & Analysis: Python (Pandas, NumPy), Jupyter Notebooks, Matplotlib, Seaborn  
+- Databases & Querying: MySQL, basic SQL querying and joins  
+- Dashboards & Reporting: MS Excel (Pivot Tables, LOOKUPs, Charts), PowerPoint  
+- Web & Tools: Flask (for lightweight apps), GitHub  
+- Other: Data cleaning, EDA, feature preparation, basic model-ready pipelines  
+- Soft Skills: Analytical thinking, problem-solving, teamwork, presentation, effective communication  
+- Languages: English (Fluent), Tamil (Native), Kannada (Fluent)
 
 ---
 
-## 🎓 Education
+## 🔬 Featured Data Analysis Projects
 
-- **B.Com Information Technology**  
-  *Kaamadhenu Arts and Science College* (2022 – 2025)  
-  Percentage: 81.20%
+I focus my time on projects that practice the full data workflow: data acquisition, cleaning, EDA, visualization, and delivering insights.
 
-- **Arts with History**  
-  *Govt Hr Sec School Kanakkampalayam* (2020 – 2022)  
-  Percentage: 88.45%
+- Cafe Sales Data Analysis (Python, Pandas, Matplotlib)  
+  Repo: https://github.com/LoganathanR03/cafe-sales-analysis  
+  - Dataset: 10k+ café transactions.  
+  - Work: Data cleaning, sales aggregation, basket and item-level analysis, revenue and growth trends by store/time.  
+  - Visuals: Time-series of daily/weekly sales, top-selling items, payment method breakdown, and actionable recommendations to increase average order value.
+
+- Road Accident Analysis Dashboard (Excel / Pivot Tables)  
+  Repo: https://github.com/LoganathanR03/cafe-sales-analysis  
+  - Dataset: 300k+ accident records.  
+  - Work: Pivot-based dashboards to explore accident counts by location, hour-of-day, weather, and casualty severity.  
+  - Outcome: Interactive Excel dashboard to filter by region/time and support quick operational reporting.
+
+- HR Employee Attrition Analysis (Python, Pandas, Seaborn)  
+  Repo: https://github.com/LoganathanR03/HR-Employee-Attrition  
+  - Dataset: ~1500 employee records.  
+  - Work: EDA to identify attrition drivers, visual breakdowns by job role/level, experience, and age groups. Prepared feature set suitable for predictive modeling and HR recommendations.
 
 ---
 
-## 🚀 Projects
+## 📁 How to Explore My Work
 
-- [**URL Shortener using Python Flask & MySQL**](https://github.com/LoganathanR03/url-shortener)  
-  Developed a Flask-based URL Shortener app with MySQL backend. Features include unique short code generation, URL mapping, redirection, and click count analytics. Efficient tracking and clean UI for local deployment.
+- Visit each project repo (links above) to find notebooks, scripts, and dashboards.  
+- Look for Jupyter notebooks and 'analysis' scripts where I document steps: data cleaning, transformations, EDA, and visualizations.  
+- If you want, I can extract example notebooks and add interactive HTML or images to this README to showcase sample charts and key metrics.
 
-- [**Road Accident Analysis Dashboard (Excel)**](https://github.com/LoganathanR03/cafe-sales-analysis)  
-  Built an interactive dashboard using Pivot Tables and Charts to analyze 300,000+ accident records. Explored trends based on location, time, casualties, and environmental factors.
-
-- [**Books Management System (Python & MySQL)**](https://github.com/LoganathanR03/Books-Management-System)  
-  Designed a CRUD application for managing books with Python and MySQL, allowing users to create, read, update, and delete records efficiently.
-
-- [**Cafe Sales Data Analysis (Python, Pandas, Matplotlib)**](https://github.com/LoganathanR03/cafe-sales-analysis)  
-  Cleaned and analyzed 10K+ café transactions, uncovering key business insights. Designed visual dashboards to present trends across items, payment methods, locations, and time
-   
-- [**HR Employee Attrition Analysis (Python, Pandas, Matplotlib, Seaborn)**](https://github.com/LoganathanR03/HR-Employee-Attrition)  
-  Explored and analyzed around 1500 employees information and uncovering key insights to the HR. Designed visual dashboards to present trends across job levels, job roles, experiance, and age and more.
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Training
 
-- [**Data Analysis with Python – Coursera**](https://coursera.org/verify/ZH4V6WRCYXYC) (June 2025)  
-  Hands-on experience with data wrangling, EDA, and visualization using Pandas, NumPy, Matplotlib & Seaborn.
-
-- [**Foundations: Data, Data, Everywhere – Coursera**](https://coursera.org/verify/VVSSHFEXGUKC) (September 2025)  
-  Gained foundational knowledge of the data analytics process and lifecycle. Learned how data is used for business decision-making. 
-
-- [**Ask Questions to Make Data-Driven Decisions – Coursera**](https://coursera.org/verify/7S4WOCXMM6AV) (September 2025)  
-  Developed skills in identifying business problems and framing questions. Understood data types, structures, and importance of data-driven insights.
-
-- **Data Analytics – Bluekode Academy** (Ongoing)  
-  Training in Python-based analytics, soft skills, and upcoming modules in SQL, Power BI, and statistics.
+- Data Analysis with Python – Coursera (June 2025) — Hands-on with Pandas, NumPy, Matplotlib & Seaborn  
+- Foundations: Data, Data, Everywhere – Coursera (September 2025)  
+- Ask Questions to Make Data-Driven Decisions – Coursera (September 2025)  
+- Data Analytics – Bluekode Academy (Ongoing) — Python-based analytics, upcoming modules in SQL, Power BI, and statistics
 
 ---
 
 ## 🏆 Achievements
 
-- **Best Outgoing Student Award** (College Level)
-- **Academic Excellence Awards** (2022–2025, 3 times)
-- **Merit Scholarship** (50% fee waiver)
-- **Best Presentation Awards** (2nd & 3rd prizes for paper presentations)
+- Best Outgoing Student Award (College Level)  
+- Academic Excellence Awards (2022–2025, 3 times)  
+- Merit Scholarship (50% fee waiver)  
+- Best Presentation Awards (2nd & 3rd prizes for paper presentations)
 
 ---
 
 ## 📈 Recent GitHub Projects
 
-- [Cafe Sales Analysis](https://github.com/LoganathanR03/cafe-sales-analysis)
-- [Books Management System](https://github.com/LoganathanR03/Books-Management-System)
-- [URL Shortener](https://github.com/LoganathanR03/url-shortener)
+- [Cafe Sales Analysis](https://github.com/LoganathanR03/cafe-sales-analysis)  
+- [HR Employee Attrition Analysis](https://github.com/LoganathanR03/HR-Employee-Attrition)  
 - [Portfolio Website](https://github.com/LoganathanR03/Portfolio)
-- [HR Employee Attrition Analysis](https://github.com/LoganathanR03/HR-Employee-Attrition) 
 
 ---
 
-**Let's connect and collaborate on data-driven projects!**
+## 📬 Contact & Collaborate
+
+I'm open to entry-level data analyst roles, freelance projects, and collaborations.  
+- LinkedIn: https://www.linkedin.com/in/loganathanr1210  
+- Email: logangreen1210@gmail.com
+
+---
+
+Let's connect — I enjoy turning data into clear stories and practical recommendations.
